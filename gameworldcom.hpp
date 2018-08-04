@@ -13,7 +13,7 @@ using namespace std;
 const uint32_t gap = 24 * 60 * 60;
 const uint32_t gap_delta = 30;
 const uint64_t base = 1000ll * 1000;
-const account_name contract_fee_account = N(gameworldfee);
+const account_name contract_fee_account = N(fomoeosworld);
 const uint64_t key_precision = 100;
 const uint8_t RED = 0;
 const uint8_t BLUE = 1;
